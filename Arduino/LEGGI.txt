@@ -1,0 +1,5 @@
+Firmware della stampante:
+- base Marlin (https://marlinfw.org/meta/download/)
+- modificato da GeeeTech (https://www.geeetech.com/forum/viewtopic.php?f=20&t=17046)
+- Configuration.h e Configuration_adv.h modificati da me per rispecchiare le specifiche della mia stampante
+(Non molto rilevante per gli scopi del progetto)
