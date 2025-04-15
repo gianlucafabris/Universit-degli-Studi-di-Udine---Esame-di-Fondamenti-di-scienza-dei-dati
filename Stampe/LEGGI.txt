@@ -1,0 +1,3 @@
+Progetti delle stampe:
+- 1 -> utilizzata immagine Michael Noll per creare l'oggetto 1.stl (1.gcode verrà usato in processing)
+- 2 -> utilizzato topology optimization per creare l'oggetto 2.stl (2.gcode verrà usato in processing)
