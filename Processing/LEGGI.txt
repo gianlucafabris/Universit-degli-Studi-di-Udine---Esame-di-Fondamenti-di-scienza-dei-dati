@@ -1,0 +1,3 @@
+Programmi in processing per:
+- visualizzaGcode -> visualizza un file gcode (utilizzabile senza stampante 3d)
+- log -> invia file gcode alla stampante, riceve risposta e crea log
